@@ -23,6 +23,8 @@
         echo "<h1>My age is: $age </h1>";
     ?>
     <button type="button" class="btn btn-dark">Click Me!</button>
+    <button type="button" class="btn btn-warning">Click Me!</button>
+    <button type="button" class="btn btn-success">Click Me!</button>
 
     <?php 
         require 'includes/footer.php' 
